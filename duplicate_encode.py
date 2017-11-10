@@ -1,3 +1,6 @@
+# This algo is supposed to return parens based on whether the character in the string appears more than once or not (I think)
+# I believe this came from codewars
+
 test_a = "din"
 test_b = "recede"
 from collections import OrderedDict
