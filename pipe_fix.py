@@ -1,3 +1,6 @@
+# An algorithm that takes an array with N integers and adds any integers that might be missing between the first index and last. 
+# IE if I give the algo [6,9] it's going to return [6,7,8,9]
+
 def pipe_fix(arr):
     min = arr[0]
     max = arr[len(arr)-1]
