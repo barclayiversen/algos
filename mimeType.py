@@ -1,3 +1,6 @@
+# This algo kicked my ass and I never did finish it. From codingame this algo is supposed to take a list of files
+# and return their mime types. 
+
 import sys
 import math
 import os
