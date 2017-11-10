@@ -1,3 +1,6 @@
+# This algo was part of a tutorial on how to build a sudoku checker but they left out the final code to get it working
+# I still haven't finished it. Came from Youtube. 
+
 INVALID_GRID = [
     [1,2,3,4,5,6,7,8,9],
     [1,2,3,4,5,6,7,8,9],
