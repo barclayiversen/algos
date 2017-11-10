@@ -1,3 +1,6 @@
+# This algo from codewars simply returns the list of names with an "&" between the last two names. 
+# IE Bart, List, Maggie, Homer & Marge
+
 test_case = [{'name': 'Bart'},{'name': 'Lisa'},{'name': 'Maggie'},{'name': 'Homer'},{'name': 'Marge'}]
 
 def nameList(names):
