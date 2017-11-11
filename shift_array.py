@@ -1,6 +1,6 @@
 
 #! /bin/python
-
+# This algo shifts the given array N times. Looking at this now I feel it could probably be much more efficient. 
 import sys
 a = [1,2,3,4,5]
 d = 4
